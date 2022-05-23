@@ -21,9 +21,11 @@ A animação tem 4 pilares e com esses pilares você deve analisar se faz sentid
 
 4º pilar: aspecto de desempenho, tem que tomar cuidado com animações para a sua apliação ser aquela que fica com muita animação e comprometer o desempenho dela.
 
+<LINKEDIN>
 Se você se perguntar:
 Eu preciso de um apelo visual aqui?
 Eu preciso da animação para um aspecto funcional?
 Será que a animação aqui vai trazer pra mim usabilidade?
 A animação não vai comprometer a minha performance, meu desempenho do que eu quero fazer?
 Se passou por essas 4 perguntas, você tem uma situação para aplicar animação!
+<LINKEDIN>
