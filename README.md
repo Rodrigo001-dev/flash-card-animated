@@ -2,6 +2,7 @@
 
 Fazendo animações no react-native.
 Utilizando o Reanimated V2 [Veja mais sobre essa ferramenta](https://docs.swmansion.com/react-native-reanimated/)
+E o Moti, ele usa o Reanimated por baixo dos panos mas o Moti foi criado tendo como inspiração de como as animações são feitas na web [Veja mais dessa ferramenta](https://moti.fyi/)
 
 Esse App implementa uma técnica de memorização que é chamada de repetição espaçada, ela é muito comum essa técnica ser utilizada para estudos, quando você tem que memorizar aluma coisa.
 A repetição espaçada funciona com cards, na frente do card tem a pergunta ou frase, e no verso tem a resposta ou frease em outro idioma, a ideia é você ir todos os dias no app e tentar adivinhar, tentar lembrar qual é a resposta do card, o que tem no verso do card.
