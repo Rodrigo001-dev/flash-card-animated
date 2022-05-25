@@ -14,7 +14,9 @@ export function Home() {
   const [currentCard, setCurrentCard] = useState(0);
   const cardListRef = useRef<FlatList>(null);
 
-  const totalOfCards = CARDS.length - 1;
+  const totalOfCards = CARDS.length - 1;//total de cards 3(array inicia no 0) - 1
+  console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa');
+  console.log(totalOfCards);
 
   async function handleScore() {
     await new Promise((resolve) => {
@@ -40,7 +42,16 @@ export function Home() {
   };
 
   async function handleCorrect() {
+    if (currentCard < totalOfCards) {
+      await handleScore();
 
+      cardListRef.current?.scrollToIndex({
+        index: currentCard + 1,//o currentCard for 0, adicionando + 1 vai para o proximo
+        animated: true,
+      });
+    };
+
+    setCurrentCard(prevState => prevState + 1); // atualizando o index no estado
   }
 
   return (
@@ -56,6 +67,7 @@ export function Home() {
         horizontal
         scrollEnabled={false}
         showsHorizontalScrollIndicator={false}
+        initialScrollIndex={currentCard}
       />
 
       <Text style={styles.tip}>Toque no cartão para inverter</Text>

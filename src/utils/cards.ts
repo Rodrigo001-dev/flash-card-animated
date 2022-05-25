@@ -14,4 +14,9 @@ export const CARDS = [
     front: "Never stop learning",
     back: "Nunca pare de aprender."
   },
+  {
+    id: "4",
+    front: "BOY!",
+    back: "GAROTO!"
+  },
 ];
