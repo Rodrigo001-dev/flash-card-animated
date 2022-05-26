@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
     backgroundColor: COLORS.WHITE,
     marginRight: 20,
-    backfaceVisibility: 'hidden'
+    backfaceVisibility: 'hidden',
   },
   label: {
     fontSize: 18,

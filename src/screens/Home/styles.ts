@@ -12,12 +12,12 @@ export const styles = StyleSheet.create({
   tip: {
     color: COLORS.WHITE,
     fontSize: 14,
-    marginVertical: 34,
+    marginVertical: 10,
   },
   footer: {
     flexDirection: 'row',
     alignItems: 'center',
     marginBottom: getBottomSpace() + 17,
-    marginTop: 30
+    marginTop: 10
   }
 });

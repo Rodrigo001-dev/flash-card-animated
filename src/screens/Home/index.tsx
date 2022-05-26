@@ -15,8 +15,6 @@ export function Home() {
   const cardListRef = useRef<FlatList>(null);
 
   const totalOfCards = CARDS.length - 1;//total de cards 3(array inicia no 0) - 1
-  console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa');
-  console.log(totalOfCards);
 
   async function handleScore() {
     await new Promise((resolve) => {
