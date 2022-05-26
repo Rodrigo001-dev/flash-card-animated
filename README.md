@@ -26,6 +26,7 @@ A animação tem 4 pilares e com esses pilares você deve analisar se faz sentid
 
 4º pilar: aspecto de desempenho, tem que tomar cuidado com animações para a sua apliação ser aquela que fica com muita animação e comprometer o desempenho dela.
 
+ 
 <LINKEDIN>
 Se você se perguntar:
 Eu preciso de um apelo visual aqui?
@@ -34,3 +35,18 @@ Será que a animação aqui vai trazer pra mim usabilidade?
 A animação não vai comprometer a minha performance, meu desempenho do que eu quero fazer?
 Se passou por essas 4 perguntas, você tem uma situação para aplicar animação!
 <LINKEDIN>
+  
+## 🚀 Tecnologias/Bibliotecas utilizadas
+  
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React-Native"> </a>
+<a href="https://expo.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Expo-32373E?style=flat-square&logo=expo&logoColor=white" alt="Expo"> </a>
+<a href="https://docs.swmansion.com/react-native-reanimated/" target="_blank"> <img src="https://img.shields.io/badge/-Reanimatedv2-001A72?style=flat-square&logo=reanimatedv2&logoColor=white" alt="Reanimated"> </a>
+<a href="https://moti.fyi/" target="_blank"> <img src="https://img.shields.io/badge/-Moti-51577d?style=flat-square&logo=moti&logoColor=white" alt="Moti"> </a>
+  
+## 💻 Autor
+
+Feito com 💜 by Rodrigo Rael
+
+<a href="https://www.linkedin.com/in/rodrigo-rael-a7a4b51a9/" target="_blank"> <img src="https://img.shields.io/badge/-RodrigoRael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https" alt="Linkedin Rodrigo"> </a>
+<a href="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" alt="Gmail Rodrigo"> </a>
