@@ -1,3 +1,7 @@
+## Demo
+
+![Gif animated](https://github.com/Rodrigo001-de/flash-card-animated/blob/main/animation.gif)
+
 ## Projeto
 
 Fazendo animações no react-native.
