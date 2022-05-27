@@ -2,7 +2,7 @@
 
 ![Gif animated](https://github.com/Rodrigo001-de/flash-card-animated/blob/main/animation.gif)
 
-## Projeto
+## :page_with_curl: Projeto
 
 Fazendo animações no react-native.
 Utilizando o Reanimated V2 [Veja mais sobre essa ferramenta](https://docs.swmansion.com/react-native-reanimated/)
